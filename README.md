@@ -5,16 +5,16 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://648caff2b9520903e5052f74--classy-nasturtium-172102.netlify.app/](https://648caff2b9520903e5052f74--classy-nasturtium-172102.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://classy-nasturtium-172102.netlify.app/](https://classy-nasturtium-172102.netlify.app/)
 
-- 💬 Ask me about **HTML | CSS | Tailwind | DaisyUI | React**
+- 💬 Ask me about **HTML | CSS | Tailwind | DaisyUI | Javascript | React**
 
 - 📫 How to reach me **kaziahammed245nabi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ahammed_nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahammed_nabi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/kazi-ahammed-nabi-434562278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kazi-ahammed-nabi-434562278" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/linkedin.com/in/kazi-ahammed-nabi-434562278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kazi-ahammed-nabi-434562278" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
